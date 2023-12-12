@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.3
 files:
-  - url: leadme-network Setup 1.0.2.exe
-    sha512: fr08BmzH5MmTil4TJq/BpXigF9EVDUa5Ldkg3r8fzeis88IYraAUj0bkWFZtYqein1AytM35Azp32YiNJRi0Jg==
-    size: 78353121
-path: leadme-network Setup 1.0.2.exe
-sha512: fr08BmzH5MmTil4TJq/BpXigF9EVDUa5Ldkg3r8fzeis88IYraAUj0bkWFZtYqein1AytM35Azp32YiNJRi0Jg==
-releaseDate: '2023-12-12T00:48:01.675Z'
+  - url: leadme-network Setup 1.0.3.exe
+    sha512: HhYShGFKdtwMRiGrkbPNwxqOzkBTjgcyVlSjtzNfC2NCkWWdQw1nWLJyRXDqDXCjVLlWjjdSYDafp8LS2B99Tw==
+    size: 78353161
+path: leadme-network Setup 1.0.3.exe
+sha512: HhYShGFKdtwMRiGrkbPNwxqOzkBTjgcyVlSjtzNfC2NCkWWdQw1nWLJyRXDqDXCjVLlWjjdSYDafp8LS2B99Tw==
+releaseDate: '2023-12-12T01:06:23.830Z'
