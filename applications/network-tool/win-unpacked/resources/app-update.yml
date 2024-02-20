@@ -1,3 +1,5 @@
 provider: generic
 url: https://leadme-network-tool-f81e92d61350.herokuapp.com/static
 updaterCacheDirName: leadme-network-updater
+publisherName:
+  - Technology for Education Solutions Pty. Ltd.
